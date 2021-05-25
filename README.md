@@ -1,6 +1,6 @@
 ## About this project
 
-This is a todo-list web application, where one can add his/her todos.
+This is a to-do-list web application, where one can add his/her todos.
 
 ## Link to view the application
 
