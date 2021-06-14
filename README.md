@@ -8,6 +8,7 @@ This is a to-do-list web application, where one can add his/her todos.
 
  - ReactJS
  - CSS
+ - React-Bootstrap
  - Localstorage (to store the todos)
 
 ## Deployment
@@ -21,6 +22,10 @@ This is a to-do-list web application, where one can add his/her todos.
  - Make changes
  - Generate a pull request
 ```
+
+## Screenshots
+![Screenshot](https://user-images.githubusercontent.com/80754608/121846870-5173b480-cd05-11eb-83ef-0561e1f4b8e6.png)
+![Screenshot](https://user-images.githubusercontent.com/80754608/121846721-17a2ae00-cd05-11eb-9898-d1c763279127.png)
   
 ## Link to view the application
  - Link- `https://todolist-app-6f54a.web.app/`
